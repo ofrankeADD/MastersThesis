@@ -26,6 +26,9 @@ If however the magnetic tensions are negligibly weak (&beta;=10^6) the bubble ev
 ## Results
 
 ![reyn3D_higher_mhd_x_b1e6_brag_d1e-2_3_lim_iso_cyc_clumping_S91_bub1e-20](https://user-images.githubusercontent.com/49908052/143506264-fb489280-eab0-4259-a03e-16037e20baeb.png)
+Volume-integrated dye entropy _S_ as a function of time, normalised by the maximum entropy S<sub>max</sub> for a fully mixed dye concentration. A fully mixed cluster has S/S<sub>max</sub>=1. It shows the mixing efficiency of the bubble material for the given runs or in other words how viscous the evolving bubbles become.
+
+
 ![reyn3D_higher_mhd_x_b1e6_brag_d1e-2_3_lim_compare_pass_log_res1024_proj_bub0001](https://user-images.githubusercontent.com/49908052/143506308-e5d7fa8c-3a9b-44a1-9505-ba2ff23a4396.png)
 ![reyn3D_higher_mhd_t_b1e2_brag_d1e-2_lim_compare2_tB2N2lim_res1024_proj](https://user-images.githubusercontent.com/49908052/143505935-a79e6a2a-29e1-4a8e-b108-5a0d47bc4ffa.png)
 
