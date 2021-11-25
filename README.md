@@ -29,6 +29,5 @@ If however the magnetic tensions are negligibly weak (&beta;=10^6) the bubble ev
 ![reyn3D_higher_mhd_x_b1e6_brag_d1e-2_3_lim_compare_pass_log_res1024_proj_bub0001](https://user-images.githubusercontent.com/49908052/143506308-e5d7fa8c-3a9b-44a1-9505-ba2ff23a4396.png)
 ![reyn3D_higher_mhd_t_b1e2_brag_d1e-2_lim_compare2_tB2N2lim_res1024_proj](https://user-images.githubusercontent.com/49908052/143505935-a79e6a2a-29e1-4a8e-b108-5a0d47bc4ffa.png)
 
-https://user-images.githubusercontent.com/49908052/143506347-210ab3d8-8ca5-41b1-babc-0753b9420c2c.mp4
 
 
