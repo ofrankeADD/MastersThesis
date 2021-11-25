@@ -22,3 +22,10 @@ Since the viscous heating rate is sensitive to pressure anisotropy, it can be su
 Simulating cluster atmospheres with magnetic fields having &beta;=100 reveals an invariance in bubble evolution in terms of mixing efficiency and viscous heating rates regardless of whether pressure anisotropy is limited or not. If so, micro-scale instabilities are rarely triggered effectively resulting in unsuppressed Braginskii viscosity.
 
 If however the magnetic tensions are negligibly weak (&beta;=10^6) the bubble evolution is drastically altered depending on whether the pressure anisotropy is bounded within levels of marginal stability. If so, viscous stresses are highly suppressed by the microinstabilities such that they can no longer prevent the bubbles from disruption, resembling the inviscid case.
+
+## Results
+
+![reyn3D_tm2e-6_tv7e-7_b6_mhd_x_b1e6_brag_d1e-2_sl_rs_lts_compare_x_b1e6_d1e-2_brag_1_res1024_proj_bub0001_defence](https://user-images.githubusercontent.com/49908052/143505966-17e25851-87c9-410f-8b89-5a7e9738635d.png)
+![reyn3D_higher_mhd_t_b1e2_brag_d1e-2_lim_compare2_tB2N2lim_res1024_proj](https://user-images.githubusercontent.com/49908052/143505935-a79e6a2a-29e1-4a8e-b108-5a0d47bc4ffa.png)
+
+
