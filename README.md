@@ -28,8 +28,13 @@ If however the magnetic tensions are negligibly weak (&beta;=10^6) the bubble ev
 ![reyn3D_higher_mhd_x_b1e6_brag_d1e-2_3_lim_iso_cyc_clumping_S91_bub1e-20](https://user-images.githubusercontent.com/49908052/143506264-fb489280-eab0-4259-a03e-16037e20baeb.png)
 Volume-integrated dye entropy _S_ as a function of time, normalised by the maximum entropy S<sub>max</sub> for a fully mixed dye concentration. A fully mixed cluster has S/S<sub>max</sub>=1. It shows the mixing efficiency of the bubble material for the given runs or in other words how viscous the evolving bubbles become.
 
+--------------------------------------------------------------------------------------------------
 
 ![reyn3D_higher_mhd_x_b1e6_brag_d1e-2_3_lim_compare_pass_log_res1024_proj_bub0001](https://user-images.githubusercontent.com/49908052/143506308-e5d7fa8c-3a9b-44a1-9505-ba2ff23a4396.png)
+Projected slices of the x-y midplane parallel to the initially uniform magnetic field lines showing the tracer mass fraction X<sub>bub</sub> for several models including from left to right _hydro_, _xB6N2lim_, _xB6N3_ and the fiducial run _xB6N2_. Each panel spans a spatial domain corresponding to dimensions x in [-1.5r<sub>0</sub>, 1.5r<sub>0</sub>] and y in [0,3r<sub>0</sub>]. The thin projections in z-direction have width dr=0.066r<sub>0</sub> centered at z=0.
+
+--------------------------------------------------------------------------------------------------
+
 ![reyn3D_higher_mhd_t_b1e2_brag_d1e-2_lim_compare2_tB2N2lim_res1024_proj](https://user-images.githubusercontent.com/49908052/143505935-a79e6a2a-29e1-4a8e-b108-5a0d47bc4ffa.png)
 
 
